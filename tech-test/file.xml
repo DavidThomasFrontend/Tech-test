@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TransactionRequest>
+
+            <Orders>
+
+                                <Order seq="1">
+
+                                                <ReferenceNum>o1234567</ReferenceNum>
+
+                                                <CountryCode>IRL</CountryCode>
+
+                                                <Address>
+
+                                                                <FullName>Office A</FullName>
+
+                                                                <AddressType>Private</AddressType>
+
+                                                                <AddressLine1>1A, Airport Business Park</AddressLine1>
+
+                                                                <AddressLine2>Cloghran, Swords, Co. Dublin</AddressLine2>
+
+                                                </Address>
+
+                                                <Customer>
+
+                                                                <CustomerCode>KM-01</CustomerCode>
+
+                                                                <FirstName>John</FirstName>
+
+                                                                <LastName>Hope</LastName>
+
+                                                                <Phone>+35312345678</Phone>
+
+                                                                <Email>john@xyz.com</Email>
+
+                                                </Customer>
+
+                                                <OrderLines>
+
+                                                                <OrderLine seq="1">
+
+                                                                                <ItemNum>R457739</ItemNum>
+
+                                                                                <ItemDescription>iPhone 8</ItemDescription>
+
+                                                                </OrderLine>
+
+                                                                <OrderLine seq="1">
+
+                                                                                <ItemNum>R457739X</ItemNum>
+
+                                                                                <ItemDescription>iPhone 10</ItemDescription>
+
+                                                                </OrderLine>
+
+                                                </OrderLines>
+
+                                </Order>
+
+                                <Order seq="2">
+
+                                                <ReferenceNum>o1234888</ReferenceNum>
+
+                                                <CountryCode>IRL</CountryCode>
+
+                                                <Address>
+
+                                                                <FullName>Office B</FullName>
+
+                                                                <AddressType>Private</AddressType>
+
+                                                                <AddressLine1>2A, Airport Business Park</AddressLine1>
+
+                                                                <AddressLine2>Cloghran, Swords, Co. Dublin</AddressLine2>
+
+                                                </Address>
+
+                                                <Customer>
+
+                                                                <CustomerCode>KM-02</CustomerCode>
+
+                                                                <FirstName>Luke</FirstName>
+
+                                                                <LastName>Mac</LastName>
+
+                                                                <Phone>+35312345678</Phone>
+
+                                                                <Email>luke@xyz.com</Email>
+
+                                                </Customer>
+
+                                                <OrderLines>
+
+                                                                <OrderLine seq="1">
+
+                                                                                <ItemNum>R457710</ItemNum>
+
+                                                                                <ItemDescription>iPhone 4</ItemDescription>
+
+                                                                </OrderLine>
+
+                                                </OrderLines>
+
+                                </Order>
+
+                                <Order seq="3">
+
+                                                <ReferenceNum>o1234999</ReferenceNum>
+
+                                                <CountryCode>USA</CountryCode>
+
+                                                <Address>
+
+                                                                <FullName>FAO BG</FullName>
+
+                                                                <AddressType>Private</AddressType>
+
+                                                                <AddressLine1>1A, Airport Business Park, Itassca</AddressLine1>
+
+                                                                <AddressLine2>Chicago, Illinois</AddressLine2>
+
+                                                </Address>
+
+                                                <Customer>
+
+                                                                <CustomerCode>KM-05</CustomerCode>
+
+                                                                <FirstName>Alan</FirstName>
+
+                                                                <LastName>Key</LastName>
+
+                                                                <Phone>+35312345678</Phone>
+
+                                                                <Email>alan@xyz.com</Email>
+
+                                                </Customer>
+
+                                                <OrderLines>
+
+                                                                <OrderLine seq="1">
+
+                                                                                <ItemNum>R457734</ItemNum>
+
+                                                                                <ItemDescription>iPad Mini</ItemDescription>
+
+                                                                </OrderLine>
+
+                                                </OrderLines>
+
+                                </Order>
+
+                                <Order seq="3">
+
+                                                <ReferenceNum>o1234555</ReferenceNum>
+
+                                                <CountryCode>IRL</CountryCode>
+
+                                                <Address>
+
+                                                                <FullName>Place C</FullName>
+
+                                                                <AddressType>Private</AddressType>
+
+                                                                <AddressLine1>2A, Airport Business Park</AddressLine1>
+
+                                                                <AddressLine2>Cloghran, Swords, Co. Dublin</AddressLine2>
+
+                                                </Address>
+
+                                                <Customer>
+
+                                                                <CustomerCode>KM-02</CustomerCode>
+
+                                                                <FirstName>Luke</FirstName>
+
+                                                                <LastName>Mac</LastName>                                                                                                             
+
+                                                                <Phone>+35312345678</Phone>
+
+                                                                <Email>luke@xyz.com</Email>
+
+                                                </Customer>
+
+                                                <OrderLines>
+
+                                                                <OrderLine seq="1">
+
+                                                                                <ItemNum>R457740</ItemNum>
+
+                                                                                <ItemDescription>iMac</ItemDescription>
+
+                                                                </OrderLine>
+
+                                                                <OrderLine seq="1">
+
+                                                                                <ItemNum>R457734</ItemNum>
+
+                                                                                <ItemDescription>iPad Mini</ItemDescription>
+
+                                                                </OrderLine>
+
+                                                </OrderLines>
+
+                                </Order>
+
+                </Orders>          
+
+</TransactionRequest>
